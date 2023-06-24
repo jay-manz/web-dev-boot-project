@@ -1,0 +1,13 @@
+body {
+    margin: 20px auto;
+    max-width: 1400px;
+}
+
+.wrapper {
+    margin: 0 auto;
+    max-width: 1400px;
+}
+
+.contact-overide {
+    border: 2px solid#0079FF ;
+}
